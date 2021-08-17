@@ -1,4 +1,4 @@
-# 独轮车脚本
+# 独轮车，说书人脚本
 - platform: 虎牙和斗鱼，b站类似不再重复
 - lib: selenuium, requests
 - latest update: 21.8.15(no update anymore)
