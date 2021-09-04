@@ -10,7 +10,7 @@ import time
 import requests
 import pickle
 plat=1
-dic=["国玉帅的翘jiojio","国玉真是绝绝子啊","骂国玉的弹幕真下头啊","卡莎哥哥好瘤呀","主播真是准的翘jiojio","今天又是在逃公主的一天呢"]
+dic=["12","34","56","78","910","1112"]
 def login(url,plat):
     driver.get(url)
     print(driver.title)
